@@ -232,7 +232,7 @@ h2 {
 }
 
 footer {
-  background-color: black;
+  background-color: #b3b3b3;
   padding: 20px;
 }
 
@@ -251,6 +251,10 @@ i {
 
 i:hover {
   color: #ccc;
+}
+
+.spec {
+  font-size: 24px; 
 }
 /* ==========================================================================
    Helper classes
